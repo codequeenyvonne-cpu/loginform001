@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codequeenyvonne-cpu.github.io/loginform-1/">
+  <a href="https://codequeenyvonne-cpu.github.io/loginform001/">
     <img src="https://img.shields.io/badge/Live_Demo-Open_Project-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
   </a>
 </p>
@@ -103,4 +103,28 @@ If the Live Demo button does not open your app yet, enable GitHub Pages in:
 
 ## Author
 
-Designed and developed as a modern frontend authentication UI project.
+### Developer Profile: Yvonne Viola ("The Queen")
+
+Yvonne Viola is the creator and developer behind this project. She is a motivated builder with a strong vision of creating a **Queen Empire** through code, AI, and digital innovation.
+
+- **Title:** Founder, Developer, "The Queen"
+- **Location:** Munyonyo, Uganda
+- **Core Mindset:** Consistent, ambitious, and growth-driven
+- **Build Philosophy:** Keep fighting, keep learning, keep shipping clean and beautiful code
+
+### Technologies and Skills
+
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** PHP
+- **AI / ML:** Python, TensorFlow, model training, practical AI systems
+
+### Personal Interests
+
+- Swimming
+- Traveling
+- Shopping
+- Exploring new ideas and opportunities in tech
+
+---
+
+Crafted and maintained by **Yvonne Viola** with passion, discipline, and a modern engineering mindset.
