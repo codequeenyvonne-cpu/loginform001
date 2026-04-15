@@ -17,6 +17,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://codequeenyvonne-cpu.github.io/loginform001/login.html"><strong>Open Login</strong></a>
+  •
+  <a href="https://codequeenyvonne-cpu.github.io/loginform001/signup.html"><strong>Open Signup</strong></a>
+</p>
+
 ---
 
 ## Overview
