@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Responsive-Yes-7C3AED?style=for-the-badge" alt="Responsive">
 </p>
 
+<p align="center">
+  <a href="https://codequeenyvonne-cpu.github.io/loginform-1/">
+    <img src="https://img.shields.io/badge/Live_Demo-Open_Project-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+  </a>
+</p>
+
 ---
 
 ## Overview
@@ -26,8 +32,6 @@ This project delivers a **modern login/signup interface** with a premium SaaS lo
 ---
 
 ## Screenshots
-
-> Add screenshots to `./screenshots/` using the filenames below so GitHub renders them automatically.
 
 | Login View | Signup View |
 |---|---|
@@ -73,6 +77,9 @@ codequeen_login form/
 ├── viola (3).jpg
 ├── lock_FILL1_wght400_GRAD0_opsz24.svg
 ├── person_FILL1_wght400_GRAD0_opsz24.svg
+├── screenshots/
+│   ├── login-screen.png
+│   └── signup-screen.png
 └── README.md
 ```
 
@@ -86,14 +93,11 @@ codequeen_login form/
 
 ---
 
-## Screenshot Setup (for GitHub)
+## Deployment Note
 
-Create a `screenshots` folder in the project root and add:
+If the Live Demo button does not open your app yet, enable GitHub Pages in:
 
-- `login-screen.png`
-- `signup-screen.png`
-
-After pushing to GitHub, images will appear in the table above.
+`Repository Settings -> Pages -> Deploy from a branch -> main / root`
 
 ---
 
